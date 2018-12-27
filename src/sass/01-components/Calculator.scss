@@ -1,0 +1,12 @@
+#calc{
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 40vmax;
+  height: 80vh;
+  background: rgba(0,0,0, 0.8);
+  border: 2px solid lighten(#1e090f, 4%);
+  border-radius: 5px;
+  box-shadow: 0px 0px 50px 7px black;
+}

@@ -1,0 +1,21 @@
+@media only screen and (max-width: 800px){
+  body #calc{
+    top: 5%;
+    width: 96%;
+    height:88vh;
+    border-color: lighten(#1e090f, 14%);
+  }
+
+  body #display{
+    border-color: lighten(#1e090f, 8%);
+  }
+
+  body #keypad{
+    grid-gap: 5px;
+
+    .key{
+       border-color: lighten(#1e090f, 8%);
+    }
+  }
+
+}
