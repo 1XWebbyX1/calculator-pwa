@@ -1,10 +1,10 @@
 # Calculator
 A Calculator web app bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![screenshot](https://s3-us-west-2.amazonaws.com/i.cdpn.io/2011965.zMdENQ.small.b994a06c-abaf-4622-a133-ae8f82ee0b05.png)
+![screenshot](https://i.ibb.co/4scNpZF/Screen-Shot-2019-01-03-at-16-26-29.png)
 
-# Demo
-For a live demo, visit [codepen](https://codepen.io/1xwebbyx1/full/zMdENQ) or [github](https://1xwebbyx1.github.io/calculator-pwa/).
+# Visit on web
+Visit at [github](https://1xwebbyx1.github.io/calculator-pwa/).
 
 # Technologies
 Project is created with :
@@ -13,7 +13,7 @@ Project is created with :
 - jQuery: 3.3
 - Redux: 4.0
 
-# How To Use
+# Install
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -33,7 +33,7 @@ $ npm start
 You will then be able to access it at localhost:3000
 
 
-For production to optimized build folder run :
+For optimized build folder production run :
 ```
 $ npm run build
 ```
@@ -41,10 +41,14 @@ You will then be able to access it at localhost:5000
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
+# You may also like
+- [Landing Page](https://github.com/1XWebbyX1/landing-page)
+- [Markdown Previewer](https://github.com/1XWebbyX1/markdown-previewer-pwa)
+
 
 # Inspiration
 
-This Project was inspired by  suggested  user stories  at [freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator).
+This Project was inspired by(not entirely based on)  suggested  user stories  at [freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator).
 
 # ToDo
 
@@ -53,8 +57,7 @@ This Project was inspired by  suggested  user stories  at [freeCodeCamp](https:/
 
 # License
 
-All Rights Reserved
-
+MIT
 ---
 
 
