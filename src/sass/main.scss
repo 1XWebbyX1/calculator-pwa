@@ -12,7 +12,6 @@
 @import
     '01-components/Calculator',
     '01-components/Display',
-    '01-components/Expression',
     '01-components/KeyPad';
 
 
@@ -21,6 +20,6 @@
 @import
     '02-utilities/_animation';
 
-// 3. Tools – globally used mixins and functions. It’s important not to output any CSS in the first 2 layers.
+// 3. Tools – _media-queries for responsive design
 @import
     '03-tools/_media-queries';
