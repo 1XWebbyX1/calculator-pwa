@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/devinc/Desktop/calculator-app/src/sass/02-utilities/_animation.scss"],"names":[],"mappings":"AAAA,MACE,wCAAyC,AACzC,wCAA2C,CAC5C","file":"3.ba263319.chunk.css","sourcesContent":[".anim{\n  border-top: 2px groove #e68a00 !important;\n  box-shadow: 1px 3px  4px #663d00 !important;\n}\n"]}
