@@ -13,9 +13,9 @@
    {key: '7', id: 'key-7'},
    {key: '8', id: 'key-8'},
    {key: '9', id: 'key-9'},
-   {key: '=', id: 'key-eq'},
+   {key: '.', id: 'key-dot'},
    {key: '0', id: 'key-0'},
-   {key: '.', id: 'key-.'}
+   {key: '=', id: 'key-eq'}
 ]
 
 

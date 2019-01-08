@@ -3,6 +3,7 @@
   top: 10%;
   left: 50%;
   transform: translateX(-50%);
+  width: 40vw;//fallback for ie
   width: 40vmax;
   height: 80vh;
   background: rgba(0,0,0, 0.8);

@@ -2,8 +2,10 @@
   "name": "calculator-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://1XWebbyX1.github.io/calculator-pwa",
+  "homepage": "http://1XWebbyX1.github.io/calculator-pwa",
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
     "node-sass": "^4.11.0",
     "react": "^16.7.0",
