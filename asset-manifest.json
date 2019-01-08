@@ -1,7 +1,7 @@
 {
-  "main.css": "/calculator-pwa/static/css/main.14a8574e.chunk.css",
-  "main.js": "/calculator-pwa/static/js/main.f42b834a.chunk.js",
-  "main.js.map": "/calculator-pwa/static/js/main.f42b834a.chunk.js.map",
+  "main.css": "/calculator-pwa/static/css/main.8808f28c.chunk.css",
+  "main.js": "/calculator-pwa/static/js/main.f706164d.chunk.js",
+  "main.js.map": "/calculator-pwa/static/js/main.f706164d.chunk.js.map",
   "static/js/1.276f6270.chunk.js": "/calculator-pwa/static/js/1.276f6270.chunk.js",
   "static/js/1.276f6270.chunk.js.map": "/calculator-pwa/static/js/1.276f6270.chunk.js.map",
   "static/js/2.bdfa6107.chunk.js": "/calculator-pwa/static/js/2.bdfa6107.chunk.js",
@@ -13,9 +13,9 @@
   "static/js/4.39bc05af.chunk.js.map": "/calculator-pwa/static/js/4.39bc05af.chunk.js.map",
   "runtime~main.js": "/calculator-pwa/static/js/runtime~main.df1d781d.js",
   "runtime~main.js.map": "/calculator-pwa/static/js/runtime~main.df1d781d.js.map",
-  "static/css/main.14a8574e.chunk.css.map": "/calculator-pwa/static/css/main.14a8574e.chunk.css.map",
+  "static/css/main.8808f28c.chunk.css.map": "/calculator-pwa/static/css/main.8808f28c.chunk.css.map",
   "static/css/3.ba263319.chunk.css.map": "/calculator-pwa/static/css/3.ba263319.chunk.css.map",
   "index.html": "/calculator-pwa/index.html",
-  "precache-manifest.20bacf588de0540d450d9a2818bb2e75.js": "/calculator-pwa/precache-manifest.20bacf588de0540d450d9a2818bb2e75.js",
+  "precache-manifest.dae5085e0c85d0f9b5bdc02c01fdb2d9.js": "/calculator-pwa/precache-manifest.dae5085e0c85d0f9b5bdc02c01fdb2d9.js",
   "service-worker.js": "/calculator-pwa/service-worker.js"
 }
