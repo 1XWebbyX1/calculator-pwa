@@ -1,18 +1,6 @@
 import React from 'react'
-import asyncComponent from './asyncComponent/async';
-
-
-
-
-  const Display = asyncComponent(() =>
-          	    import('./Display').then(module => module.default)
-          	);
-
-
-   const KeyPad = asyncComponent(() =>
-                	    import('./KeyPad').then(module => module.default)
-                	);
-
+import Display from './Display';
+import KeyPad from './KeyPad';
 
 
 class Calculator extends React.Component {

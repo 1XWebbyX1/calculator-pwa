@@ -1,5 +1,5 @@
 # Calculator
-A Calculator web app bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Calculator web app bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This app implements Immediate Execution Logic (does not observe order of operation precedence).
 
 ![screenshot](https://i.ibb.co/4scNpZF/Screen-Shot-2019-01-03-at-16-26-29.png)
 
